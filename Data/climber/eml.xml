@@ -1,0 +1,345 @@
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+         xmlns:dc="http://purl.org/dc/terms/"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+         packageId="e2bcea8c-dfea-475e-a4ae-af282b4ea1c5/v23.1" system="http://gbif.org" scope="system"
+         xml:lang="eng">
+
+<dataset>
+  <alternateIdentifier>e2bcea8c-dfea-475e-a4ae-af282b4ea1c5</alternateIdentifier>
+  <alternateIdentifier>http://ipt.pensoft.net/resource?r=climber</alternateIdentifier>
+  <title xml:lang="eng">CLIMBER</title>
+      <creator>
+    <individualName>
+        <givenName>Oliver</givenName>
+      <surName>Schweiger</surName>
+    </individualName>
+    <organizationName>Helmholtz Centre for Environmental Research - UFZ</organizationName>
+    <positionName>Research Scientist</positionName>
+    <address>
+        <deliveryPoint>Theodor-Lieser-Str. 4</deliveryPoint>
+        <city>Halle</city>
+        <postalCode>06120</postalCode>
+        <country>DE</country>
+    </address>
+    <phone>+49 345 558 5306</phone>
+    <electronicMailAddress>oliver.schweiger@ufz.de</electronicMailAddress>
+    <onlineUrl>http://www.ufz.de/index.php?en=818</onlineUrl>
+      </creator>
+      <metadataProvider>
+    <individualName>
+        <givenName>Oliver</givenName>
+      <surName>Schweiger</surName>
+    </individualName>
+    <organizationName>Helmholtz Centre for Environmental Research - UFZ</organizationName>
+    <positionName>Research Scientist</positionName>
+    <address>
+        <deliveryPoint>Theodor-Lieser-Str. 4</deliveryPoint>
+        <city>Halle</city>
+        <postalCode>06120</postalCode>
+        <country>DE</country>
+    </address>
+    <phone>+49 345 558 5306</phone>
+    <electronicMailAddress>oliver.schweiger@ufz.de</electronicMailAddress>
+    <onlineUrl>http://www.ufz.de/index.php?en=818</onlineUrl>
+      </metadataProvider>
+      <associatedParty>
+    <individualName>
+        <givenName>Oliver</givenName>
+      <surName>Schweiger</surName>
+    </individualName>
+    <organizationName>Helmholtz Centre for Environmental Research - UFZ</organizationName>
+    <positionName>Research Scientist</positionName>
+    <address>
+        <deliveryPoint>Theodor-Lieser-Str. 4</deliveryPoint>
+        <city>Halle</city>
+        <postalCode>06120</postalCode>
+        <country>DE</country>
+    </address>
+    <phone>+49 345 558 5306</phone>
+    <electronicMailAddress>oliver.schweiger@ufz.de</electronicMailAddress>
+    <onlineUrl>http://www.ufz.de/index.php?en=818</onlineUrl>
+    <role>author</role>
+      </associatedParty>
+      <associatedParty>
+    <individualName>
+        <givenName>Alexander</givenName>
+      <surName>Harpke</surName>
+    </individualName>
+    <organizationName>Helmholtz Centre for Environmental Research - UFZ</organizationName>
+    <positionName>Research Scientist</positionName>
+    <address>
+        <deliveryPoint>Theodor-Lieser-Str. 4</deliveryPoint>
+        <city>Halle</city>
+        <postalCode>06120</postalCode>
+        <country>DE</country>
+    </address>
+    <phone>+49 345 558 5312</phone>
+    <electronicMailAddress>alexander.harpke@ufz.de</electronicMailAddress>
+    <role>author</role>
+      </associatedParty>
+      <associatedParty>
+    <individualName>
+        <givenName>Martin</givenName>
+      <surName>Wiemers</surName>
+    </individualName>
+    <organizationName>Helmholtz Centre for Environmental Research - UFZ</organizationName>
+    <positionName>Research Scientist</positionName>
+    <address>
+        <deliveryPoint>Theodor-Lieser-Str. 4</deliveryPoint>
+        <city>Halle</city>
+        <postalCode>06120</postalCode>
+        <country>DE</country>
+    </address>
+    <phone>+49 345 558 5322</phone>
+    <electronicMailAddress>martin.wiemers@ufz.de</electronicMailAddress>
+    <onlineUrl>http://www.ufz.de/index.php?de=31235</onlineUrl>
+    <role>author</role>
+      </associatedParty>
+      <associatedParty>
+    <individualName>
+        <givenName>Josef</givenName>
+      <surName>Settele</surName>
+    </individualName>
+    <organizationName>Helmholtz Centre for Environmental Research - UFZ</organizationName>
+    <positionName>Research Scientist</positionName>
+    <address>
+        <deliveryPoint>Theodor-Lieser-Str. 4</deliveryPoint>
+        <city>Halle</city>
+        <postalCode>06120</postalCode>
+        <country>DE</country>
+    </address>
+    <phone>+49 345 558 5320</phone>
+    <electronicMailAddress>oliver.schweiger@ufz.de</electronicMailAddress>
+    <onlineUrl>http://www.ufz.de/index.php?de=817</onlineUrl>
+    <role>author</role>
+      </associatedParty>
+      <associatedParty>
+    <individualName>
+        <givenName>Oliver</givenName>
+      <surName>Schweiger</surName>
+    </individualName>
+    <organizationName>Helmholtz Centre for Environmental Research - UFZ</organizationName>
+    <positionName>Research Scientist</positionName>
+    <address>
+        <deliveryPoint>Theodor-Lieser-Str. 4</deliveryPoint>
+        <city>Halle</city>
+        <postalCode>06120</postalCode>
+        <country>DE</country>
+    </address>
+    <phone>+49 345 558 5306</phone>
+    <electronicMailAddress>oliver.schweiger@ufz.de</electronicMailAddress>
+    <onlineUrl>http://www.ufz.de/index.php?en=818</onlineUrl>
+    <role>pointOfContact</role>
+      </associatedParty>
+      <associatedParty>
+    <individualName>
+        <givenName>Oliver</givenName>
+      <surName>Schweiger</surName>
+    </individualName>
+    <organizationName>Helmholtz Centre for Environmental Research - UFZ</organizationName>
+    <positionName>Research Scientist</positionName>
+    <address>
+        <deliveryPoint>Theodor-Lieser-Str. 4</deliveryPoint>
+        <city>Halle</city>
+        <postalCode>06120</postalCode>
+        <country>DE</country>
+    </address>
+    <phone>+49 345 558 5306</phone>
+    <electronicMailAddress>oliver.schweiger@ufz.de</electronicMailAddress>
+    <onlineUrl>http://www.ufz.de/index.php?en=818</onlineUrl>
+    <role>principalInvestigator</role>
+      </associatedParty>
+      <associatedParty>
+    <individualName>
+        <givenName>Oliver</givenName>
+      <surName>Schweiger</surName>
+    </individualName>
+    <organizationName>Helmholtz Centre for Environmental Research - UFZ</organizationName>
+    <positionName>Research Scientist</positionName>
+    <address>
+        <deliveryPoint>Theodor-Lieser-Str. 4</deliveryPoint>
+        <city>Halle</city>
+        <postalCode>06120</postalCode>
+        <country>DE</country>
+    </address>
+    <phone>+49 345 558 5306</phone>
+    <electronicMailAddress>oliver.schweiger@ufz.de</electronicMailAddress>
+    <onlineUrl>http://www.ufz.de/index.php?en=818</onlineUrl>
+    <role>processor</role>
+      </associatedParty>
+  <pubDate>
+      2019-05-13
+  </pubDate>
+  <language>eng</language>
+  <abstract>
+    <para>Climatic niche characteristics of the butterflies in Europe</para>
+  </abstract>
+      <keywordSet>
+            <keyword>climate change</keyword>
+            <keyword>climate warming</keyword>
+            <keyword>CTI</keyword>
+            <keyword>global change</keyword>
+            <keyword>global warming</keyword>
+            <keyword>modelling</keyword>
+            <keyword>risk</keyword>
+            <keyword>trend</keyword>
+            <keyword>STI</keyword>
+            <keyword>Europe</keyword>
+            <keyword>butterflies</keyword>
+            <keyword>Papilionidae</keyword>
+            <keyword>Pieridae</keyword>
+            <keyword>Lycaenidae</keyword>
+            <keyword>Riodinidae</keyword>
+            <keyword>Hesperiidae</keyword>
+        <keywordThesaurus>n/a</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Checklist</keyword>
+        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+      </keywordSet>
+  <intellectualRights>
+    <para>This database - CLIMBER is made available under the Open Database License: http://opendatacommons.org/licenses/odbl/1.0/. Any rights in individual contents of the database are licensed under the Database Contents License: http://opendatacommons.org/licenses/dbcl/1.0/</para>
+  </intellectualRights>
+  <distribution scope="document">
+    <online>
+      <url function="information">http://www.ufz.de/european-butterflies/index.php?de=22477</url>
+    </online>
+  </distribution>
+  <coverage>
+      <geographicCoverage>
+          <geographicDescription>Europe, excluding Belarus, Ukraine, Moldova, Russia, Cyprus, Iceland, and the Atlantic islands (Azores, Madeira and Canary Islands). No climatic data were available from some small islands such as the Pontine Islands (Italy) and Nissiros (Greece).</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-11</westBoundingCoordinate>
+          <eastBoundingCoordinate>32</eastBoundingCoordinate>
+          <northBoundingCoordinate>72</northBoundingCoordinate>
+          <southBoundingCoordinate>34</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+          <temporalCoverage>
+              <rangeOfDates>
+                  <beginDate>
+                    <calendarDate>1981-01-01</calendarDate>
+                  </beginDate>
+                <endDate>
+                  <calendarDate>2000-12-31</calendarDate>
+                </endDate>
+              </rangeOfDates>
+          </temporalCoverage>
+          <taxonomicCoverage>
+              <generalTaxonomicCoverage>European butterfly species</generalTaxonomicCoverage>
+              <taxonomicClassification>
+                  <taxonRankName>superfamily</taxonRankName>
+                <taxonRankValue>Papilionoidea</taxonRankValue>
+                  <commonName>Butterflies</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Pieridae</taxonRankValue>
+                  <commonName>Whites and Sulphurs</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Lycaenidae</taxonRankValue>
+                  <commonName>Blues and Coppers</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Riodinidae</taxonRankValue>
+                  <commonName>Metalmarks</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Nymphalidae</taxonRankValue>
+                  <commonName>Brushfooted Butterflies</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Hesperiidae</taxonRankValue>
+                  <commonName>Skippers</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Papilionidae</taxonRankValue>
+                  <commonName>Swallowtails</commonName>
+              </taxonomicClassification>
+          </taxonomicCoverage>
+  </coverage>
+  <maintenance>
+    <description>
+      <para></para>
+    </description>
+    <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+  </maintenance>
+
+      <contact>
+    <individualName>
+        <givenName>Oliver</givenName>
+      <surName>Schweiger</surName>
+    </individualName>
+    <organizationName>Helmholtz Centre for Environmental Research - UFZ</organizationName>
+    <positionName>Research Scientist</positionName>
+    <address>
+        <deliveryPoint>Theodor-Lieser-Str. 4</deliveryPoint>
+        <city>Halle</city>
+        <postalCode>06120</postalCode>
+        <country>DE</country>
+    </address>
+    <phone>+49 345 558 5306</phone>
+    <electronicMailAddress>oliver.schweiger@ufz.de</electronicMailAddress>
+    <onlineUrl>http://www.ufz.de/index.php?en=818</onlineUrl>
+      </contact>
+  <methods>
+        <methodStep>
+          <description>
+            <para>Butterfly distribution data are based on a data base which combines information from local recorders and private, regional and national data bases. Thereof, species distributional maps have been developed. Together with maps of original and derived climate variables, based on interpolated data from local weather stations, species distribution-climate relationships have been assessed in a GIS. Based on these relationships several statistics describing the climatic characteristics of 397 European butterfly species have been developed and stored in CLIMBER.</para>
+          </description>
+        </methodStep>
+      <sampling>
+        <studyExtent>
+          <description>
+            <para>A. Geographic coverage and spatial resolution
+Climatic niche characteristics are provided for all butterfly species occurring within a European window of 11ºW - 32ºE longitude and 34ºN - 72ºN latitude. Resolution of butterfly distribution and corresponding climate data used to calculate climatic niche characteristics corresponds to the 50 km x 50 km Common European Chorological Grid Reference System (CGRS; http://www.eea.europa.eu/data-and-maps/data/common-european-chorological-grid-reference-system-cgrs).
+
+The geographic window excludes data from the Atlantic islands under European administration (the Azores, Madeira and Canary Islands) as well as Cyprus and Iceland. Due to low levels of recording, data from Belarus, Ukraine, Moldova, and Russia were also excluded. Additionally, no climate data were available for two species with extremely local distributions on the Lipari Pontine Islands and the Greek island of Nissiros. These restrictions led to the exclusion of 38 European butterfly species which are listed in Kudrna et al. (2011), but confined to these regions.
+
+B. Temporal reference period
+Only butterfly distribution data from the period of 1981 to 2000 were considered due to low sampling intensity in earlier periods and to minimize errors due to ongoing range shifts as a response to recent climate change.</para>
+          </description>
+        </studyExtent>
+        <samplingDescription>
+          <para>A. Butterfly distribution data
+Climatic niche characteristics of the butterflies in Europe are based on their European distribution. Butterfly distributions were available from about 7000 georeferenced localities and about 200,000 database records. These records were stored in a data base and constituted also the basis for ‘The Distribution Atlas of European Butterflies’ (Kudrna 2002) and, as an updated version, for the ‘Distribution Atlas of Butterflies in Europe’ (Kudrna et al. 2011).
+To avoid problems of occasional undersampling and imprecise geo-reference of some locations at the local scale, we re-sampled the localities to 1720 CGRS grid cells (ca. 50 km × 50 km). 
+
+B. Climate data
+We used monthly, interpolated climate data (public available at http://www.alarmproject.net/climate/climate), originally provided via the ALARM project (Settele et al. 2012; Settele et al. 2005; Spangenberg et al. 2012) at a 10 arcmin grid resolution (Mitchell et al. 2004; New et al. 2000) and aggregated them to the CGRS grid (Fig. 5). For a detailed description of the climate data see Fronzek et al. (2012). The following basic climatic variables were used to assess aspects of the climatic niche: mean annual temperature (°C), range of annual temperature (°C), annual precipitation sum (mm), range of annual precipitation (mm), accumulated growing degree days with a base temperature of 5°C until February, April, June and August and soil water content for the upper horizon (0.5 m). Different time periods for calculating accumulated growing degree days enable the consideration of different phenologies and phenological aspects in the analysis of the climatic species characteristics. We do not provide growing degree days for periods ending later than August because these values are highly correlated with mean annual temperature in any case. Soil water content originated from the dynamic vegetation model LPJ-GUESS (Hickler et al. 2009; Hickler et al. 2004) which provides a process-based representation of the water balance in terrestrial ecosystems. According to the time period of the butterfly distribution data, we used averaged values for the period 1971-2000 for the climate data.
+
+C. Calculation of the climatic niche characteristics
+Climatic niche characteristics were calculated per butterfly species according to the climatic conditions across their respective ranges, i.e. across all grid cells in which a particular species occurs (see Devictor et al. 2012a; Schweiger et al. 2012; Van Swaay et al. 2010; Van Swaay et al. 2008; Fig. 5). The dataset comprises information for the position and breadth of the climatic niche. Niche position is indicated by the median and mean value for each climate variable across a species’ range, accompanied by the 95% confidence interval for the mean. Niche breadth is indicated by the standard deviation and the minimum and maximum values for each climatic variable across a species’ range.</para>
+        </samplingDescription>
+      </sampling>
+      <qualityControl>
+        <description>
+          <para>Several steps of quality control ensure a high level of data accuracy. During the step of compiling butterfly records for Europe, taxonomic experts addressed all problems of potential misidentification, synonymy and the taxonomic concept. Once the species distribution maps have been produced, internal and external control ensured the elimination of obviously wrong records (species outside their natural range). Climate data are based on original climate variables from the Climate Research Unit (CRU) of the University of East Anglia and derived climate variables generated by the ALARM project. Both, CRU and ALARM ensured a high level of internal and external quality control. Data quality for the calculation of the climatic niche characteristics for each butterfly species is high (about 2700,000 records for butterfly distribution; well recognised and commonly accepted climate data). Additionally, we provide the number of grid cells which have been used to calculate the climatic species characteristics and the standard deviation to assess uncertainty of the measures.</para>
+        </description>
+      </qualityControl>
+  </methods>
+</dataset>
+  <additionalMetadata>
+    <metadata>
+      <gbif>
+          <dateStamp>2013-11-19T02:56:04.929+02:00</dateStamp>
+          <hierarchyLevel>dataset</hierarchyLevel>
+            <citation>Helmholtz Centre for Environmental Research - UFZ (2013). CLIMBER: Climatic niche characteristics of the butterflies in Europe. 397 records, Online at http://ipt.pensoft.net/ipt/resource.do?r=climber, version 1.3 (released on 3/12/2013), Resource ID: GBIF key: http://www.gbif.org/dataset/e2bcea8c-dfea-475e-a4ae-af282b4ea1c5, Data Paper ID: doi: 10.3897/zookeys.367.6185</citation>
+          <bibliography>
+                <citation identifier="Kudrna (2002)">Kudrna O (2002) The distribution atlas of European butterflies. Apollo Books, Stenstrup, 1-343 pp.</citation>
+                <citation identifier="Kudrna et al. (2011)">Kudrna O, Harpke A, Lux K, Pennerstorfer J, Schweiger O, Settele J, Wiemers M (2011) Distribution atlas of butterflies in Europe. Gesellschaft für Schmetterlingsschutz, Halle, Germany, 576 pp.</citation>
+                <citation identifier="Settele et al. (2008)">Settele J, Kudrna O, Harpke A, Kühn I, van Swaay C, Verovnik R, Warren M, Wiemers M, Hanspach J, Hickler T, Kühn E, van Halder I, Veling K, Vleigenhart A, Wynhoff I, Schweiger O (2008) Climatic risk atlas of European butterflies. BioRisk 1: 1-710</citation>
+          </bibliography>
+          <resourceLogoUrl>http://ipt.pensoft.net/logo.do?r=inle_fish_2014-16</resourceLogoUrl>
+          <dc:replaces>e2bcea8c-dfea-475e-a4ae-af282b4ea1c5/v23.1.xml</dc:replaces>
+      </gbif>
+    </metadata>
+  </additionalMetadata>
+</eml:eml>
